@@ -11,8 +11,8 @@ public class Main {
         controller.addStudent(new Student(4L, "Иван Иванов"));
         controller.addStudent(new Student(6L, "Петр Петров"));
         controller.addStudent(new Student(2L, "Сергей Сергеев"));
-        controller.addStudent(new Student(1L, "Алексей Алексеев"));
-        controller.addStudent(new Student(8L, "Максим Максимов"));
+        controller.addStudent(new Student(1L, "Терентий Попов"));
+        controller.addStudent(new Student(8L, "Евлампия Субботина"));
         controller.printAll();
 
         System.out.println("\nСортировка по имени:");
